@@ -1,2 +1,2 @@
 # my-first-example
-my example
+my first program
